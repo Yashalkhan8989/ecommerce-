@@ -100,5 +100,3 @@ yarn stripe:webhooks
 ## License
 
 This project is licensed under the MIT License.
-# ecommerce-
-# ecommerce-
