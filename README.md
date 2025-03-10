@@ -1,6 +1,6 @@
 # E-commerce Template for Payload
 
-This is an e-commerce template built with Payload CMS, Next.js, and Stripe. It provides a robust foundation for building an online store with a modern tech stack..
+This is an e-commerce template built with Payload CMS, Next.js, and Stripe. It provides a robust foundation for building an online store with a modern tech stack.
 
 ## Features
 
