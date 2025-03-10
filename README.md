@@ -5,7 +5,7 @@ This is an e-commerce template built with Payload CMS, Next.js, and Stripe. It p
 ## Features
 
 - **Payload CMS**: Headless CMS for managing content.
-- **Next.js**: React framework for server-side rendering and static site generation.
+- **Next.js**: React framework for server-side rendering and static site generation
 - **Stripe**: Payment processing integration.
 - **MongoDB**: Database for storing data.
 - **SEO**: Built-in SEO features.
